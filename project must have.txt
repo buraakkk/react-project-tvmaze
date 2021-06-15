@@ -1,0 +1,25 @@
+Hi Rob,
+I want to work with the tvmaze. (https://api.tvmaze.com)
+Here are the general requirements.
+• The app needs to have multiple pages and use client-side routing
+• The app should make use of the Context API
+• You can either use an API that you have built or access to (then just include the backend code in the project) or should use data from a public API. You will not be graded on backend code
+
+
+Specific requirements for my project
+MUST-HAVES
+1.      The app needs to have multiple pages and use client-side routing.
+2.      The App interacts with tvmaze. ((https://api.tvmaze.com)
+3.      The app should make use of the Context API.
+4.      The user should search the TV shows.
+5.      The user can see the names and the image that are related to the searched TV show if the user wants to see.
+6.      The user should be able to see a message if there are no TV shows regarding the searching.
+7.      If there is an error, the error message should be displayed on the page.
+8.	    The user can delete a search entry, by clicking the "X".
+9.	    The user can use the "Search Show" button when the input field has at least 1 character.
+10.	    When the user click the on the specific searched name on the list, the user should see the all information about it into the another page (/:id).
+11.     The user can watch rhe show if the user click the "watch now" button.
+12.     The user can go homepage(/) when the user click on the "Turn Home Page" button.
+13.     The user goes back to the results the search term is still there.
+SHOULD-HAVES
+1.     The user can login or register an account.
