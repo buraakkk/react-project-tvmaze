@@ -28,8 +28,6 @@ const App = () => {
             <Route path="/login" exact component={Login} />
             <Route path="/register" exact component={Register} />
             <Route path="/:id" exact component={ShowDetails} />
-
-            {/* <Route path="/register" exact component={Register} /> */}
           </Switch>
           <Footer />
         </Router>
